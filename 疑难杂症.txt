@@ -1,0 +1,7 @@
+mybatis 批量更新（为实现）
+
+max allowed packet mysql
+	http://superuser.com/questions/418814/how-to-increase-mysql-max-allowed-packet-for-client
+
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	https://www.mkyong.com/eclipse/eclipse-java-lang-outofmemoryerror-java-heap-space/
