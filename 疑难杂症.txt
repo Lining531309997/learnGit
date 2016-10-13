@@ -1,4 +1,5 @@
 mybatis 批量更新（为实现）
+加油
 
 max allowed packet mysql
 	http://superuser.com/questions/418814/how-to-increase-mysql-max-allowed-packet-for-client
